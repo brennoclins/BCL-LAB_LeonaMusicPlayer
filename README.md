@@ -1,6 +1,6 @@
 # BCL-MusicPlayer - Leona
 
-Um player de música com tema da Leona do League of Leguends, muito top usando CSS e HTML
+Um player de música com tema da Leona do League of Legends, muito top usando CSS e HTML
 
 Autor: Brenno
 
